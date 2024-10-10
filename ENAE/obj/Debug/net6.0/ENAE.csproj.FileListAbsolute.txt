@@ -1,0 +1,12 @@
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\bin\Debug\net6.0\ENAE.deps.json
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\bin\Debug\net6.0\ENAE.dll
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\bin\Debug\net6.0\ENAE.pdb
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.AssemblyInfoInputs.cache
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.AssemblyInfo.cs
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.csproj.CoreCompileInputs.cache
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.sourcelink.json
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.dll
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\refint\ENAE.dll
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ENAE.pdb
+C:\Users\emers\Desktop\PruebasUnitarias\ENAE\ENAE\obj\Debug\net6.0\ref\ENAE.dll

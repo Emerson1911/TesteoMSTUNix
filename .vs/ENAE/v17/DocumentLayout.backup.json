@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\Desktop\\PruebasUnitarias\\ENAE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727C4BC1-C4A4-4C7B-9292-F8199D3DA098}|ENAE\\ENAE.csproj|c:\\users\\emers\\desktop\\pruebasunitarias\\enae\\enae\\enaestringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C4BC1-C4A4-4C7B-9292-F8199D3DA098}|ENAE\\ENAE.csproj|solutionrelative:enae\\enaestringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727C4BC1-C4A4-4C7B-9292-F8199D3DA098}|ENAE\\ENAE.csproj|c:\\users\\emers\\desktop\\pruebasunitarias\\enae\\enae\\enaetemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C4BC1-C4A4-4C7B-9292-F8199D3DA098}|ENAE\\ENAE.csproj|solutionrelative:enae\\enaetemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ENAETemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\PruebasUnitarias\\ENAE\\ENAE\\ENAETemperatura.cs",
+              "RelativeDocumentMoniker": "ENAE\\ENAETemperatura.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\PruebasUnitarias\\ENAE\\ENAE\\ENAETemperatura.cs",
+              "RelativeToolTip": "ENAE\\ENAETemperatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:25:45.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ENAEStringManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\PruebasUnitarias\\ENAE\\ENAE\\ENAEStringManipulator.cs",
+              "RelativeDocumentMoniker": "ENAE\\ENAEStringManipulator.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\PruebasUnitarias\\ENAE\\ENAE\\ENAEStringManipulator.cs",
+              "RelativeToolTip": "ENAE\\ENAEStringManipulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:25:44.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
