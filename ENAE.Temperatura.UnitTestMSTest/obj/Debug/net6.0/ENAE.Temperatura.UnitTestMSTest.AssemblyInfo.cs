@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ENAE.Temperatura.UnitTestMSTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c47461a16ddfd71d85f4d25990c4e81f7fb06b64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6725430436504d72d388d1a7cdb2a321d69ef9a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ENAE.Temperatura.UnitTestMSTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ENAE.Temperatura.UnitTestMSTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
